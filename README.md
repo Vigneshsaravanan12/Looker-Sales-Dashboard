@@ -28,6 +28,7 @@ This project showcases a complete sales analysis pipeline from **data extraction
 | File | Description |
 |------|-------------|
 | `question and answer.sql` | SQL scripts to create and analyze datasets |
+| `Sales_Dashboard.pdf` | PDF version of dashboard |
 | `Merging and Analysis.ipynb` | Python notebook for merging and EDA |
 | `customer_details.csv` | Customer information dataset |
 | `order_details.csv` | Sales order records |
