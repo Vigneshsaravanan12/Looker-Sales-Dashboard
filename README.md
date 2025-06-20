@@ -54,7 +54,7 @@ This project showcases a complete sales analysis pipeline from **data extraction
 ![Category-Wise Sales](category-wise-sales.png)
 
 ### 🔹 Payment Method Performance
-![Payment Wise Performance](payment-wise-performance.png)
+![Payment Wise Performance](payment wise-performance.png)
 
 ---
 
@@ -69,13 +69,13 @@ This project showcases a complete sales analysis pipeline from **data extraction
 
 ## 🔗 Live Report Link (Optional)
 
-> [🔗 View Looker Studio Dashboard](https://lookerstudio.google.com/reporting/your-dashboard-id)
+> [🔗 View Looker Studio Dashboard](https://lookerstudio.google.com/reporting/d4e64112-69c0-475a-9bd7-b0ffe9dc94a9)
 
 ---
 
 ## 👨‍💻 Developed By
 
 **Vignesh S**  
-Final Year B.E. Computer Science  
+B.E. Computer Science  
 [GitHub](https://github.com/Vigneshsaravanan12) | [LinkedIn](https://www.linkedin.com/in/vignesh-s-14273a334)
 
